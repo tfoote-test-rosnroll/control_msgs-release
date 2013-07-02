@@ -32,8 +32,9 @@ tracks:
     name: upstream
     patches: null
     release_inc: '0'
+    release_repo_url: null
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: git://github.com/ros-planning/control_msgs.git
+    vcs_uri: https://github.com/ros-controls/control_msgs.git
     version: :{auto}
