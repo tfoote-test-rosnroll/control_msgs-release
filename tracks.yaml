@@ -12,10 +12,11 @@ tracks:
     name: upstream
     patches: null
     release_inc: -1
+    release_repo_url: null
     release_tag: :{version}
     ros_distro: groovy
     vcs_type: git
-    vcs_uri: git://github.com/ros-planning/control_msgs.git
+    vcs_uri: git://github.com/ros-controls/control_msgs.git
     version: :{auto}
   hydro:
     actions:
