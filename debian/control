@@ -1,0 +1,12 @@
+Source: ros-hydro-control-msgs
+Section: misc
+Priority: extra
+Maintainer: Willow Garage <control_msgs@willowgarage.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-actionlib-msgs, ros-hydro-catkin, ros-hydro-geometry-msgs, ros-hydro-message-generation, ros-hydro-std-msgs, ros-hydro-trajectory-msgs
+Homepage: http://ros.org/wiki/control_msgs
+Standards-Version: 3.9.2
+
+Package: ros-hydro-control-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib-msgs, ros-hydro-geometry-msgs, ros-hydro-message-runtime, ros-hydro-std-msgs, ros-hydro-trajectory-msgs
+Description: control_msgs contains base messages and actions useful for controlling robots. It provides representations for controller setpoints and joint and cartesian trajectories.
