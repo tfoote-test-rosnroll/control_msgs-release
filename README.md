@@ -1,3 +1,22 @@
+## control_msgs (indigo) - 1.3.0-2
+
+The packages in the `control_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release control_msgs -t indigo -r indigo` on `Fri, 23 May 2014 12:42:00 -0000`
+
+The `control_msgs` package was released.
+
+Version of package(s) in repository `control_msgs`:
+- rosdistro version: `1.3.0-1`
+- old version: `1.3.0-1`
+- new version: `1.3.0-2`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.33`
+
+
 ## control_msgs (hydro) - 1.2.0-1
 
 The packages in the `control_msgs` repository were released into the `hydro` distro by running `/usr/bin/bloom-release control_msgs -t hydro -r hydro` on `Fri, 23 May 2014 12:35:08 -0000`
