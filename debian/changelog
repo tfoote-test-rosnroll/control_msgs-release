@@ -1,0 +1,79 @@
+ros-jade-control-msgs (1.3.1-0vivid) vivid; urgency=high
+
+  * Export architecture_independent flag in package.xml
+  * Change package maintainer.
+  * Contributors: Adolfo Rodriguez Tsouroukdissian, Scott K Logan
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Wed, 04 Mar 2015 23:00:00 -0000
+
+ros-jade-control-msgs (1.3.0-0vivid) vivid; urgency=high
+
+  * Add error_string to action result.
+  * Contributors: Adolfo Rodriguez Tsouroukdissian
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Wed, 26 Feb 2014 23:00:00 -0000
+
+ros-jade-control-msgs (1.2.0-0vivid) vivid; urgency=high
+
+
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Wed, 24 Apr 2013 22:00:00 -0000
+
+ros-jade-control-msgs (1.1.6-0vivid) vivid; urgency=high
+
+  * adds missing feedback field to PointHeadAction
+  * Contributors: Adam Leeper
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Sun, 10 Feb 2013 23:00:00 -0000
+
+ros-jade-control-msgs (1.1.5-0vivid) vivid; urgency=high
+
+  * changes PointHeadAction.action to PointHead.action
+  * Contributors: Adam Leeper
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Tue, 22 Jan 2013 23:00:00 -0000
+
+ros-jade-control-msgs (1.1.4-0vivid) vivid; urgency=high
+
+  * this now contains all messages, services and actions that used to be in ros_controllers and/or pr2_controllers_msgs
+  * copy JointControllerState and JointTrajectoryControllerState  from pr2_controllers_msgs
+  * copy GripperCommand from pr2_controllers_msgs
+  * modified dep type of catkin
+  * Contributors: Dirk Thomas, Ioan Sucan
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Mon, 21 Jan 2013 23:00:00 -0000
+
+ros-jade-control-msgs (1.1.3-0vivid) vivid; urgency=high
+
+  * fix dep
+  * add missing downstream depend
+  * switched from langs to message_* packages
+  * Contributors: Dirk Thomas
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Wed, 12 Dec 2012 23:00:00 -0000
+
+ros-jade-control-msgs (1.1.2-0vivid) vivid; urgency=high
+
+
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Sun, 02 Dec 2012 23:00:00 -0000
+
+ros-jade-control-msgs (1.1.1-0vivid) vivid; urgency=high
+
+  * added metapackage for backward compatibility
+  * Contributors: Ioan Sucan
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Mon, 19 Nov 2012 14:52:00 -0000
+
+ros-jade-control-msgs (1.1.0-0vivid) vivid; urgency=high
+
+  * port to catkin
+  * add bogus dependency on rospy, to get ros_comm
+  * Added documentation for the FollowJointTrajectory action and the JointTolerance message.
+  * Added PointHeadAction to control_msgs
+  * First cut at a FollowJointTrajectory action
+  * Contributors: Brian Gerkey, Ioan Sucan, Stuart Glaser
+
+ -- Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>  Mon, 19 Nov 2012 13:54:00 -0000
+
+
