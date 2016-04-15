@@ -1,3 +1,26 @@
+## control_msgs (kinetic) - 1.4.0-0
+
+The packages in the `control_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic control_msgs --edit` on `Fri, 15 Apr 2016 10:24:24 -0000`
+
+The `control_msgs` package was released.
+
+Version of package(s) in repository `control_msgs`:
+
+- upstream repository: git://github.com/ros-controls/control_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.4.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## control_msgs (jade) - 1.3.1-0
 
 The packages in the `control_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release control_msgs --track jade --rosdistro jade --edit` on `Thu, 05 Mar 2015 14:26:10 -0000`
