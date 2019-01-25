@@ -1,3 +1,26 @@
+## control_msgs (bouncy) - 2.0.0-0
+
+The packages in the `control_msgs` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --track bouncy --rosdistro bouncy control_msgs --edit` on `Fri, 25 Jan 2019 20:42:08 -0000`
+
+The `control_msgs` package was released.
+
+Version of package(s) in repository `control_msgs`:
+
+- upstream repository: git://github.com/ros-controls/control_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## control_msgs (melodic) - 1.4.0-0
 
 The packages in the `control_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic control_msgs --edit` on `Mon, 19 Mar 2018 19:24:38 -0000`
