@@ -2,6 +2,11 @@
 Changelog for package control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2019-01-29)
+------------------
+* Fix up dependencies for actionlib and Crystal
+* Contributors: Bence Magyar
+
 2.0.0 (2019-01-25)
 ------------------
 * ROS2 Bouncy conversion
