@@ -1,3 +1,26 @@
+## control_msgs (crystal) - 2.1.0-0
+
+The packages in the `control_msgs` repository were released into the `crystal` distro by running `/usr/bin/bloom-release --track crystal --rosdistro crystal control_msgs --edit` on `Tue, 29 Jan 2019 07:35:02 -0000`
+
+The `control_msgs` package was released.
+
+Version of package(s) in repository `control_msgs`:
+
+- upstream repository: git://github.com/ros-controls/control_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## control_msgs (bouncy) - 2.0.0-0
 
 The packages in the `control_msgs` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --track bouncy --rosdistro bouncy control_msgs --edit` on `Fri, 25 Jan 2019 20:42:08 -0000`
