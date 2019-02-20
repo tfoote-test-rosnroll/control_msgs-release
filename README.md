@@ -1,3 +1,26 @@
+## control_msgs (melodic) - 1.5.0-0
+
+The packages in the `control_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic control_msgs` on `Wed, 20 Feb 2019 06:41:42 -0000`
+
+The `control_msgs` package was released.
+
+Version of package(s) in repository `control_msgs`:
+
+- upstream repository: git://github.com/ros-controls/control_msgs.git
+- release repository: https://github.com/ros-gbp/control_msgs-release.git
+- rosdistro version: `1.4.0-0`
+- old version: `1.4.0-0`
+- new version: `1.5.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## control_msgs (kinetic) - 1.5.0-0
 
 The packages in the `control_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic control_msgs` on `Wed, 20 Feb 2019 06:28:08 -0000`
