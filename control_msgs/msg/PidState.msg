@@ -1,5 +1,5 @@
-std_msgs/Header header
-builtin_interfaces/Duration timestep
+Header header
+duration timestep
 float64 error
 float64 error_dot
 float64 p_error

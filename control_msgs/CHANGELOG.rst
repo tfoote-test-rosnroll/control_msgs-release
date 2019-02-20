@@ -2,16 +2,11 @@
 Changelog for package control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.1.0 (2019-01-29)
+1.5.0 (2019-02-19)
 ------------------
-* Fix up dependencies for actionlib and Crystal
-* Contributors: Bence Magyar
-
-2.0.0 (2019-01-25)
-------------------
-* ROS2 Bouncy conversion
+* Adding a JointJog msg
 * Replace Adolfo with Bence as maintainer
-* Contributors: Austin Deric, Bence Magyar, Nestor Gonzalez
+* Contributors: AndyZe, Bence Magyar
 
 1.4.0 (2016-04-15)
 ------------------

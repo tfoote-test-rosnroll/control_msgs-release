@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 float64 set_point
 float64 process_value
 float64 process_value_dot
