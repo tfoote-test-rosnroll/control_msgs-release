@@ -1,3 +1,26 @@
+## control_msgs (dashing) - 2.2.0-1
+
+The packages in the `control_msgs` repository were released into the `dashing` distro by running `/usr/bin/bloom-release control_msgs --track dashing --rosdistro dashing --edit` on `Mon, 09 Sep 2019 07:14:31 -0000`
+
+The `control_msgs` package was released.
+
+Version of package(s) in repository `control_msgs`:
+
+- upstream repository: git://github.com/ros-controls/control_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## control_msgs (crystal) - 2.2.0-1
 
 The packages in the `control_msgs` repository were released into the `crystal` distro by running `/usr/bin/bloom-release control_msgs --track crystal --rosdistro crystal` on `Mon, 09 Sep 2019 07:06:25 -0000`
