@@ -2,6 +2,11 @@
 Changelog for package control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.2.0 (2019-09-09)
+------------------
+* generate action interfaces
+* Contributors: Mathias Lüdtke
+
 2.1.0 (2019-01-29)
 ------------------
 * Fix up dependencies for actionlib and Crystal
