@@ -1,0 +1,13 @@
+Source: ros-dashing-control-msgs
+Section: misc
+Priority: extra
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-dashing-action-msgs, ros-dashing-ament-cmake, ros-dashing-ament-lint-auto, ros-dashing-ament-lint-common, ros-dashing-builtin-interfaces, ros-dashing-geometry-msgs, ros-dashing-rosidl-default-generators, ros-dashing-std-msgs, ros-dashing-trajectory-msgs, ros-dashing-ros-workspace, ros-dashing-rmw-connext-cpp, ros-dashing-rmw-fastrtps-cpp, ros-dashing-rmw-implementation, ros-dashing-rmw-opensplice-cpp, ros-dashing-rosidl-typesupport-connext-c, ros-dashing-rosidl-typesupport-connext-cpp, ros-dashing-rosidl-typesupport-opensplice-c, ros-dashing-rosidl-typesupport-opensplice-cpp
+Homepage: http://ros.org/wiki/control_msgs
+Standards-Version: 3.9.2
+
+Package: ros-dashing-control-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-dashing-action-msgs, ros-dashing-builtin-interfaces, ros-dashing-geometry-msgs, ros-dashing-rosidl-default-runtime, ros-dashing-std-msgs, ros-dashing-trajectory-msgs, ros-dashing-ros-workspace
+Description: control_msgs contains base messages and actions useful for controlling robots.
+ It provides representations for controller setpoints and joint and cartesian trajectories.
