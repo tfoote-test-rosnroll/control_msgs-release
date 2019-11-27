@@ -1,4 +1,4 @@
-builtin_interfaces/Time time
+time time
 ---
 string[] name
 float64[] position

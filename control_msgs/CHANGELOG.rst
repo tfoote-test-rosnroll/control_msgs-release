@@ -2,21 +2,16 @@
 Changelog for package control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.2.0 (2019-09-09)
+1.5.1 (2019-11-27)
 ------------------
-* generate action interfaces
-* Contributors: Mathias Lüdtke
+* add description of JointControllerState.msg (`#30 <https://github.com/ros-controls/control_msgs/issues/30>`_)
+* Contributors: Shuang Li
 
-2.1.0 (2019-01-29)
+1.5.0 (2019-02-19)
 ------------------
-* Fix up dependencies for actionlib and Crystal
-* Contributors: Bence Magyar
-
-2.0.0 (2019-01-25)
-------------------
-* ROS2 Bouncy conversion
+* Adding a JointJog msg
 * Replace Adolfo with Bence as maintainer
-* Contributors: Austin Deric, Bence Magyar, Nestor Gonzalez
+* Contributors: AndyZe, Bence Magyar
 
 1.4.0 (2016-04-15)
 ------------------
