@@ -1,0 +1,13 @@
+Source: ros-verystable-control-msgs
+Section: misc
+Priority: optional
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-verystable-action-msgs, ros-verystable-ament-cmake, ros-verystable-ament-lint-auto, ros-verystable-ament-lint-common, ros-verystable-builtin-interfaces, ros-verystable-geometry-msgs, ros-verystable-rosidl-default-generators, ros-verystable-std-msgs, ros-verystable-trajectory-msgs, ros-verystable-ros-workspace, ros-verystable-rmw-connext-cpp, ros-verystable-rmw-fastrtps-cpp, ros-verystable-rmw-implementation, ros-verystable-rmw-opensplice-cpp, ros-verystable-rosidl-typesupport-connext-c, ros-verystable-rosidl-typesupport-connext-cpp, ros-verystable-rosidl-typesupport-opensplice-c, ros-verystable-rosidl-typesupport-opensplice-cpp
+Homepage: http://ros.org/wiki/control_msgs
+Standards-Version: 3.9.2
+
+Package: ros-verystable-control-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-verystable-action-msgs, ros-verystable-builtin-interfaces, ros-verystable-geometry-msgs, ros-verystable-rosidl-default-runtime, ros-verystable-std-msgs, ros-verystable-trajectory-msgs, ros-verystable-ros-workspace
+Description: control_msgs contains base messages and actions useful for controlling robots.
+ It provides representations for controller setpoints and joint and cartesian trajectories.
